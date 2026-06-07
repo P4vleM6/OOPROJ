@@ -1,0 +1,17 @@
+D:\VISUAL STUDIO REPOS\Lab4OOPROJ\Aplikacija\bin\Debug\Aplikacija.exe.config
+D:\VISUAL STUDIO REPOS\Lab4OOPROJ\Aplikacija\bin\Debug\Aplikacija.exe
+D:\VISUAL STUDIO REPOS\Lab4OOPROJ\Aplikacija\bin\Debug\Aplikacija.pdb
+D:\VISUAL STUDIO REPOS\Lab4OOPROJ\Aplikacija\obj\Debug\Aplikacija.csproj.AssemblyReference.cache
+D:\VISUAL STUDIO REPOS\Lab4OOPROJ\Aplikacija\obj\Debug\Aplikacija.FormKategorija.resources
+D:\VISUAL STUDIO REPOS\Lab4OOPROJ\Aplikacija\obj\Debug\Aplikacija.FormListaVozaca.resources
+D:\VISUAL STUDIO REPOS\Lab4OOPROJ\Aplikacija\obj\Debug\Aplikacija.FormZabrana.resources
+D:\VISUAL STUDIO REPOS\Lab4OOPROJ\Aplikacija\obj\Debug\Aplikacija.Properties.Resources.resources
+D:\VISUAL STUDIO REPOS\Lab4OOPROJ\Aplikacija\obj\Debug\Aplikacija.FormVozac.resources
+D:\VISUAL STUDIO REPOS\Lab4OOPROJ\Aplikacija\obj\Debug\Aplikacija.csproj.GenerateResource.cache
+D:\VISUAL STUDIO REPOS\Lab4OOPROJ\Aplikacija\obj\Debug\Aplikacija.csproj.CoreCompileInputs.cache
+D:\VISUAL STUDIO REPOS\Lab4OOPROJ\Aplikacija\obj\Debug\Aplikacija.exe
+D:\VISUAL STUDIO REPOS\Lab4OOPROJ\Aplikacija\obj\Debug\Aplikacija.pdb
+D:\VISUAL STUDIO REPOS\Lab4OOPROJ\Aplikacija\bin\Debug\Podaci.exe
+D:\VISUAL STUDIO REPOS\Lab4OOPROJ\Aplikacija\bin\Debug\Podaci.pdb
+D:\VISUAL STUDIO REPOS\Lab4OOPROJ\Aplikacija\bin\Debug\Podaci.exe.config
+D:\VISUAL STUDIO REPOS\Lab4OOPROJ\Aplikacija\obj\Debug\Aplikacija.csproj.Up2Date

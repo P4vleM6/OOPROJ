@@ -1,0 +1,7 @@
+D:\VISUAL STUDIO REPOS\Lab4OOPROJ\Podaci\obj\Debug\Podaci.csproj.AssemblyReference.cache
+D:\VISUAL STUDIO REPOS\Lab4OOPROJ\Podaci\obj\Debug\Podaci.csproj.CoreCompileInputs.cache
+D:\VISUAL STUDIO REPOS\Lab4OOPROJ\Podaci\bin\Debug\Podaci.exe.config
+D:\VISUAL STUDIO REPOS\Lab4OOPROJ\Podaci\bin\Debug\Podaci.exe
+D:\VISUAL STUDIO REPOS\Lab4OOPROJ\Podaci\bin\Debug\Podaci.pdb
+D:\VISUAL STUDIO REPOS\Lab4OOPROJ\Podaci\obj\Debug\Podaci.exe
+D:\VISUAL STUDIO REPOS\Lab4OOPROJ\Podaci\obj\Debug\Podaci.pdb
